@@ -3,7 +3,7 @@ layout: post
 title: "讀書心得(創業) : 創造需求"
 date: 2014-06-06 14:51:36 +0800
 comments: true
-categories: 
+categories: 讀書心得
 ---
 
 

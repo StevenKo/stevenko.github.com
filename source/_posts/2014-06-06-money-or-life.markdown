@@ -3,7 +3,7 @@ layout: post
 title: "人生與金錢到底那個重要？"
 date: 2014-06-06 14:33:46 +0800
 comments: true
-categories: 
+categories: 生活體悟
 ---
 
 長久以來，這個問題一直很吸引我，讓我有一些很深的思考：　時間與金錢到底那個重要
