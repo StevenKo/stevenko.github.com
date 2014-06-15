@@ -20,6 +20,10 @@ $header-padding-bottom: 1.5em !default;
 
 .group { @include pie-clearfix; }
 
+.socialIcons{
+  float: left;
+}
+
 @mixin collapse-sidebar {
   float: none;
   width: auto;
