@@ -1,101 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>StevenKo's Blog</title>
-  <meta name="author" content="Steven Ko">
-
-  
-  <meta name="description" content="什麼是一個適合創業的好點子? 最近因為做的Bussiness感覺遇到了一個瓶頸，我又重新思考這個問題 乘在浪上 上研究所時(2009年)，我有幸上了一門手機程式設計，那門課每組都要製作一個APP, 當做期末作業。評分的方式是舉辦一個 workshop, 讓同學發表自己的作品，然後同學間互評。 &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://StevenKo.github.io">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="StevenKo's Blog" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">StevenKo's Blog</a></h1>
-  
-    <h2>生活,創業,科技,閱讀</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:StevenKo.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">首頁</a></li>
-  <li><a href="/blog/archives">文章列表</a></li>
-  <li><a href="/about/zh">關於我</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[StevenKo's Blog]]></title>
+  <link href="http://StevenKo.github.io/atom.xml" rel="self"/>
+  <link href="http://StevenKo.github.io/"/>
+  <updated>2014-06-15T21:27:39+08:00</updated>
+  <id>http://StevenKo.github.io/</id>
+  <author>
+    <name><![CDATA[Steven Ko]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2014/06/15/what-is-a-good-idea/">什麼才是適合創業的好點子</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2014-06-15T20:26:02+08:00" pubdate data-updated="true">Jun 15<span>th</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>什麼是一個適合創業的好點子? 最近因為做的Bussiness感覺遇到了一個瓶頸，我又重新思考這個問題</p>
+  <entry>
+    <title type="html"><![CDATA[什麼才是適合創業的好點子]]></title>
+    <link href="http://StevenKo.github.io/blog/2014/06/15/what-is-a-good-idea/"/>
+    <updated>2014-06-15T20:26:02+08:00</updated>
+    <id>http://StevenKo.github.io/blog/2014/06/15/what-is-a-good-idea</id>
+    <content type="html"><![CDATA[<p>什麼是一個適合創業的好點子? 最近因為做的Bussiness感覺遇到了一個瓶頸，我又重新思考這個問題</p>
 
 <h5>乘在浪上</h5>
 
@@ -116,42 +39,15 @@
 
 <p>乘在浪上->試著駕御浪->一次又一次的挑戰 是我覺得一次很棒的創業經歷
 現在當我想做一個 Idea 時，我會問自己，是不是會在一個浪上，雷軍說: &ldquo;站在風口上，豬也能飛&#8221;，應該就是這個意思吧！再來，這個 Idea 是不是我的團隊做得來的, 若是只有爬小山的本領，硬是要挑戰世界第一高峰，那下場很可能不會太好&hellip; 最好的情況是挑戰比能力再稍微高一點的事，透過挑戰的過程，慢慢的累積能量，獲得一次又一次的&#8221;小成功&rdquo;</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/06/12/app-develop-team/">成功APP企畫 &#8211; 第三步，衡量團隊能力</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-06-12T13:33:08+08:00" pubdate data-updated="true">Jun 12<span>th</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><center>
+  <entry>
+    <title type="html"><![CDATA[成功APP企畫 -- 第三步，衡量團隊能力]]></title>
+    <link href="http://StevenKo.github.io/blog/2014/06/12/app-develop-team/"/>
+    <updated>2014-06-12T13:33:08+08:00</updated>
+    <id>http://StevenKo.github.io/blog/2014/06/12/app-develop-team</id>
+    <content type="html"><![CDATA[<center>
 <img style="-webkit-user-select: none;" src="http://farm9.static.flickr.com/8083/8351116782_a28e9e25d0.jpg" width="500" height="376">  
 </center>
 
@@ -180,42 +76,15 @@ photo credit: <a href="http://www.flickr.com/photos/steffen_ramsaier/8351116782/
 
 
 <p>團隊的評估是很重要的，能不能順利的完成開發，大概從團隊的執行力就可以看出來了</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/06/11/app-develop-business-model/">成功APP企畫 &#8211; 第二步，思考獲利模式</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-06-11T20:48:04+08:00" pubdate data-updated="true">Jun 11<span>th</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><center>
+  <entry>
+    <title type="html"><![CDATA[成功APP企畫 -- 第二步，思考獲利模式]]></title>
+    <link href="http://StevenKo.github.io/blog/2014/06/11/app-develop-business-model/"/>
+    <updated>2014-06-11T20:48:04+08:00</updated>
+    <id>http://StevenKo.github.io/blog/2014/06/11/app-develop-business-model</id>
+    <content type="html"><![CDATA[<center>
 <img style="-webkit-user-select: none;" src="http://farm3.staticflickr.com/2291/2397388906_ce5c59d73c.jpg" width="500" height="376">
 </center>
 
@@ -253,42 +122,15 @@ photo credit: <a href="http://www.flickr.com/photos/steffen_ramsaier/8351116782/
 
 
 <p>要做一個成功的APP, 一定要考量好獲利模式, 如果不經仔細地思索，就選一個項目開始做, 之後才當初所想要採行的獲利模式行不通, 那時候可能要花費加倍的力氣去更正它</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/06/10/app-develop-market-research/">成功APP企畫 &#8211; 第一步，市場調查</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-06-10T16:02:01+08:00" pubdate data-updated="true">Jun 10<span>th</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><pre><code>很幸運地開發過好幾款下載超過百萬的APP,想把自己的以前開發的心得,採取的手法, 記錄整理下來,做為之後開發的參考
+  <entry>
+    <title type="html"><![CDATA[成功APP企畫 -- 第一步，市場調查]]></title>
+    <link href="http://StevenKo.github.io/blog/2014/06/10/app-develop-market-research/"/>
+    <updated>2014-06-10T16:02:01+08:00</updated>
+    <id>http://StevenKo.github.io/blog/2014/06/10/app-develop-market-research</id>
+    <content type="html"><![CDATA[<pre><code>很幸運地開發過好幾款下載超過百萬的APP,想把自己的以前開發的心得,採取的手法, 記錄整理下來,做為之後開發的參考
 </code></pre>
 
 <p>很多想開發APP的人，心裡有一個idea, 就為這個idea著迷, 想著要怎麼賺錢, 怎麼吸引使用者, 甚至連使用者來了之後, 產品要怎麼樣變形都開始考慮&hellip;..然後就沒頭沒腦的招募工程師，花費時間開發，結果三個月後才發現做出來的產品不符合使用者的期待&hellip;</p>
@@ -318,42 +160,15 @@ photo credit: <a href="http://www.flickr.com/photos/steffen_ramsaier/8351116782/
 <p> 評估要採用那些工具與技術，以及團隊是否有能力掌握這些工具，要花費的資源(錢 &amp; 時間)是多少&hellip; 現在技術很發達，要做到一個功能，可能同時有好幾套工具，評估後採取最適合的工具是很重要的</p></li>
 </ol>
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/06/09/book-review-learn-from-finnish-lessons/">我讀 『芬蘭教育這樣改』</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-06-09T23:03:16+08:00" pubdate data-updated="true">Jun 9<span>th</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>讀了『芬蘭教育這樣改』之後, 我有一些些想法, 先整理一些問題…</p>
+  <entry>
+    <title type="html"><![CDATA[我讀 『芬蘭教育這樣改』]]></title>
+    <link href="http://StevenKo.github.io/blog/2014/06/09/book-review-learn-from-finnish-lessons/"/>
+    <updated>2014-06-09T23:03:16+08:00</updated>
+    <id>http://StevenKo.github.io/blog/2014/06/09/book-review-learn-from-finnish-lessons</id>
+    <content type="html"><![CDATA[<p>讀了『芬蘭教育這樣改』之後, 我有一些些想法, 先整理一些問題…</p>
 
 <p>1</p>
 
@@ -388,42 +203,15 @@ photo credit: <a href="http://www.flickr.com/photos/steffen_ramsaier/8351116782/
 <p>8</p>
 
 <p>大學教育是四年的隨機選擇? 現在進大學的方式就是一試定未來四年, 考的好可以選擇排名前面的學校, 考不好就沒機會; 考的好可以去當醫生, 老師… , 這些是正確的嗎？怎麼改變這情形, 怎麼讓學生選擇自己的興趣, 而不再只是看考試落點分析填志願！</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/06/09/book-review-the-pumpkin-plan/">讀書心得(創業) : 南瓜計畫-狠心摘弱枝，才能比人茁壯的經營法則</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-06-09T22:58:22+08:00" pubdate data-updated="true">Jun 9<span>th</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>該怎麼才能成功地經營一家公司, 這是個每個公司的經營者都會問的問題! 而這本書即是試著告訴我們這個問題的答案。作者用了很多的案例來闡述他的想法, 他認為要成功的經營一個事業, 在很多方面跟嘗試種巨大的南瓜有異曲同工之妙</p>
+  <entry>
+    <title type="html"><![CDATA[讀書心得(創業) : 南瓜計畫-狠心摘弱枝，才能比人茁壯的經營法則]]></title>
+    <link href="http://StevenKo.github.io/blog/2014/06/09/book-review-the-pumpkin-plan/"/>
+    <updated>2014-06-09T22:58:22+08:00</updated>
+    <id>http://StevenKo.github.io/blog/2014/06/09/book-review-the-pumpkin-plan</id>
+    <content type="html"><![CDATA[<p>該怎麼才能成功地經營一家公司, 這是個每個公司的經營者都會問的問題! 而這本書即是試著告訴我們這個問題的答案。作者用了很多的案例來闡述他的想法, 他認為要成功的經營一個事業, 在很多方面跟嘗試種巨大的南瓜有異曲同工之妙</p>
 
 <ol>
 <li><p>種下巨大南瓜的種子: 一開始決定要做什麼樣事業, 也就已經影響了之後的發展, 比如說,如果開一家小吃店, 那將來要成為連鎖的國際大飯店, 難度會非常高。所以一開始就要試著去找那個有足夠發展性的事業</p></li>
@@ -440,42 +228,15 @@ photo credit: <a href="http://www.flickr.com/photos/steffen_ramsaier/8351116782/
 <p>比較好的途徑是:</p>
 
 <p>做一個服務(假想客戶是..) &ndash;> 客戶沒來, 再嘗試多一點 &ndash;> 再做多一些服務 &ndash;> 客戶來了, 開始思考自己該服務誰 &ndash;> 全力服務好客戶 &ndash;> 更多好客戶</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/06/06/demand-book-review/">讀書心得(創業) : 創造需求</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-06-06T14:51:36+08:00" pubdate data-updated="true">Jun 6<span>th</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><img src="http://mrjamie.cc/wp-content/uploads/2012/12/0000009324.jpeg" alt="Demand" /></p>
+  <entry>
+    <title type="html"><![CDATA[讀書心得(創業) : 創造需求]]></title>
+    <link href="http://StevenKo.github.io/blog/2014/06/06/demand-book-review/"/>
+    <updated>2014-06-06T14:51:36+08:00</updated>
+    <id>http://StevenKo.github.io/blog/2014/06/06/demand-book-review</id>
+    <content type="html"><![CDATA[<p><img src="http://mrjamie.cc/wp-content/uploads/2012/12/0000009324.jpeg" alt="Demand" /></p>
 
 <p>看了一本我覺得對於創業很有幫助的書, 中文的書名是 : 引爆需求<a href="http://www.books.com.tw/exep/prod/booksfile.php?item=0010564634">引爆需求</a></p>
 
@@ -514,42 +275,15 @@ photo credit: <a href="http://www.flickr.com/photos/steffen_ramsaier/8351116782/
 
 
 <p>書的後頭屢屢提到組織的重要性, 我想組織的良窳會影響到解決問題的效率, 所以 leader 應該要關注在內部組織上, 一味地只想帶著大家往前衝, 可是沒注意到大家的行進速度, 狀態…. 是不行的</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/06/06/money-or-life/">人生與金錢到底那個重要？</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-06-06T14:33:46+08:00" pubdate data-updated="true">Jun 6<span>th</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>長久以來，這個問題一直很吸引我，讓我有一些很深的思考：　時間與金錢到底那個重要</p>
+  <entry>
+    <title type="html"><![CDATA[人生與金錢到底那個重要？]]></title>
+    <link href="http://StevenKo.github.io/blog/2014/06/06/money-or-life/"/>
+    <updated>2014-06-06T14:33:46+08:00</updated>
+    <id>http://StevenKo.github.io/blog/2014/06/06/money-or-life</id>
+    <content type="html"><![CDATA[<p>長久以來，這個問題一直很吸引我，讓我有一些很深的思考：　時間與金錢到底那個重要</p>
 
 <p>這幾天我想到了一個很棒的故事</p>
 
@@ -574,42 +308,15 @@ photo credit: <a href="http://www.flickr.com/photos/steffen_ramsaier/8351116782/
 </code></pre>
 
 <p>人生通常不是這麼極端的故事, 但是該想想, 一生追求的是什麼。是過程還是結果, 是金銀財富嗎？還是一個”滿足”“快樂”的人生？</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/06/05/learn-from-climbing/">攀岩的生活領悟</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-06-05T11:30:17+08:00" pubdate data-updated="true">Jun 5<span>th</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>仔細想一想，從小到大因為受老爸的影響，所以也熱愛運動，真是一件幸運的事！大抵所有的運動都可以競賽，可以不停的精益求精，我認為這是一種很棒的生活態度！以前看過”快樂學”方面的書，人只要覺得自己有進展，就會感到快樂！所以當我們熱愛一項運動時，我們不由自主的想，是不是可以再進步一點，如何再進步一點？相同地，如果用這種態度面對生活，那一切也會不一樣，如何讓生活更順心？如何增進工作上的效率？如何跟夥伴有更好的溝通？如何讓今天的自己又比昨天的自己更進步？</p>
+  <entry>
+    <title type="html"><![CDATA[攀岩的生活領悟]]></title>
+    <link href="http://StevenKo.github.io/blog/2014/06/05/learn-from-climbing/"/>
+    <updated>2014-06-05T11:30:17+08:00</updated>
+    <id>http://StevenKo.github.io/blog/2014/06/05/learn-from-climbing</id>
+    <content type="html"><![CDATA[<p>仔細想一想，從小到大因為受老爸的影響，所以也熱愛運動，真是一件幸運的事！大抵所有的運動都可以競賽，可以不停的精益求精，我認為這是一種很棒的生活態度！以前看過”快樂學”方面的書，人只要覺得自己有進展，就會感到快樂！所以當我們熱愛一項運動時，我們不由自主的想，是不是可以再進步一點，如何再進步一點？相同地，如果用這種態度面對生活，那一切也會不一樣，如何讓生活更順心？如何增進工作上的效率？如何跟夥伴有更好的溝通？如何讓今天的自己又比昨天的自己更進步？</p>
 
 <p><a href="http://en.wikipedia.org/wiki/Steph_Davis">Steph Davis</a> 說　“When I first went climbing, it seemed like a wonderful, delightful game. Over time, climbing became a teacher” 我的感覺也是如此，攀岩有幾個非常不錯的特性，可以應用在生活上</p>
 
@@ -622,42 +329,15 @@ photo credit: <a href="http://www.flickr.com/photos/steffen_ramsaier/8351116782/
 
 
 <p>改變計畫，迅速下決定：攀岩到了岩壁上時，常會發現跟在底下預想的情況不同，這時得迅速地反應，選擇一個我們覺得比較好的爬法，否則很快地手就沒力了。生活上也是如此，面對挑戰時，有時沒有什麼緩衝的時間，要快速的下決定，不要拖拖拉拉，這樣反而會消秏更多的精力</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/05/30/first-post/">第一篇文章</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-05-30T14:42:59+08:00" pubdate data-updated="true">May 30<span>th</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>終於下定了決心要開始寫 blog！</p>
+  <entry>
+    <title type="html"><![CDATA[第一篇文章]]></title>
+    <link href="http://StevenKo.github.io/blog/2014/05/30/first-post/"/>
+    <updated>2014-05-30T14:42:59+08:00</updated>
+    <id>http://StevenKo.github.io/blog/2014/05/30/first-post</id>
+    <content type="html"><![CDATA[<p>終於下定了決心要開始寫 blog！</p>
 
 <p>內容將會是關於 &ldquo;程式學習&rdquo; &ldquo;對教育的看法&rdquo; &ldquo;閱讀心得&rdquo; &ldquo;生活感想&rdquo; &ldquo;創業心得&rdquo; 之類的吧！</p>
 
@@ -668,97 +348,7 @@ photo credit: <a href="http://www.flickr.com/photos/steffen_ramsaier/8351116782/
 <p>至於為什麼選擇 Octopress? 哈，我是一個程式設計師，給自己出個難題</p>
 
 <p>希望這次自己會有毅力一點 :)</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <img class="left" src="https://avatars2.githubusercontent.com/u/1100488?s=140" width="70" title="Steven Ko Avatar #2" >
-  <h1>Steven Ko</h1>
-  <p>人生要勇於走自己的路</p>
-  <div class="clear">
-  <div class="socialIcons">
-    <a href="https://www.facebook.com/ChunYuKo" target="_blank"><img src="https://lh6.googleusercontent.com/-MPSCPe8hC5g/U5k3hmS8U1I/AAAAAAAADS0/OC4Fr1943pM/s48-no/facebook.png" title="加入Facebook"></a>
-    <a href="http://www.linkedin.com/profile/view?id=118974166" target="_blank"><img src="https://lh4.googleusercontent.com/-NQID-KxA_k8/U5k3htxuQiI/AAAAAAAADS4/u5YVUlb0o8Y/s48-no/linkedin.png" title="LinkedIn"></a>
-    <a href="mailto:stevenko@kosbrother.com" target="_blank"><img src="https://lh4.googleusercontent.com/-uPGkBozjXKU/U5k3hrE6zXI/AAAAAAAADS8/F-cVHsZcf8U/s48-no/email.png" title="訂閱Email"></a>
-    <a href="http://feeds.feedburner.com/StevenkosBlog" target="_blank"><img src="https://lh5.googleusercontent.com/-tuu3zKs042Q/U5lM91oMMhI/AAAAAAAADTU/6xeI7E07w6w/s48-no/rss.png" title="訂閱Rss"></a>
-  </div>
-  <div class="clear">
-</section>
-<section>
-  <h1>近期文章</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2014/06/15/what-is-a-good-idea/">什麼才是適合創業的好點子</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/06/12/app-develop-team/">成功APP企畫 &#8211; 第三步，衡量團隊能力</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/06/11/app-develop-business-model/">成功APP企畫 &#8211; 第二步，思考獲利模式</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/06/10/app-develop-market-research/">成功APP企畫 &#8211; 第一步，市場調查</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/06/09/book-review-learn-from-finnish-lessons/">我讀 『芬蘭教育這樣改』</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2014 - Steven Ko -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
